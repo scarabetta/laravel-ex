@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+		<p>Esto es un agregado para probar el ciclo de update automático.</p>
             </div>
         </div>
     </body>
